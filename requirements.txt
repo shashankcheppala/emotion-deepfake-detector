@@ -1,0 +1,13 @@
+tensorflow>=2.11.0
+tensorflow-addons
+keras
+numpy
+opencv-python
+matplotlib
+fer==22.1.0
+tqdm
+scikit-learn
+transformers
+torch
+pillow
+ipywidgets
