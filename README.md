@@ -36,19 +36,22 @@ A two-stream deepfake detection system that fuses spatial frame features with te
 
 ## Repository Structure
 
+```
 emotion-deepfake-detector/
-├── notebooks/ # Jupyter notebooks for experiments
-│ └── deepfake_project.ipynb
-├── src/ # Core Python modules (preprocessing, training, evaluation)
-│ ├── preprocessing.py
-│ ├── training.py
-│ └── evaluate.py
-├── models/ # Trained .keras model weights
-├── data/ # Sample or link-only (no raw datasets)
+├── notebooks/              
+│   └── deepfake_project.ipynb
+├── src/                 
+│   ├── preprocessing.py
+│   ├── training.py
+│   └── evaluate.py
+├── models/          
+├── data/               
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
+```
+
 
 ---
 
